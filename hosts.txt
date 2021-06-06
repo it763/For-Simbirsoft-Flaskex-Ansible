@@ -1,0 +1,2 @@
+[ubuntu_servers]
+ubuntu1804 ansible_host=<HOST> ansible_user=<Username>
